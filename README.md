@@ -1,2 +1,2 @@
 # EarnSpareMoney Docs
-link: https://SauerkrautFish.github.io
+link: https://sauerkrautfish.github.io/E.S.M.Docs/
