@@ -1,2 +1,2 @@
-# Docs of Project EarnSpareMoney
-                            by SauerkrautFish Group
+Docs of Project EarnSpareMoney
+        --by SauerkrautFish Group
